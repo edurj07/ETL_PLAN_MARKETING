@@ -8,3 +8,4 @@
 
 --Criado novo pacote (Dividir fluxo por categoria: Premium ou Basic), validação feita pelo valor do produto
 
+--Criado novo pacote para carga dos dados sobre o cliente
